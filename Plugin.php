@@ -70,7 +70,7 @@ class PokerFace_Plugin implements Typecho_Plugin_Interface
             exit();
         }
     }
-public static function hibaby(){
+    public static function hibaby(){
         $url = Helper::options()->siteUrl;
         Header("Location:$url"); 
         @session_destroy();
