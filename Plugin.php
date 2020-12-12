@@ -47,7 +47,7 @@ class PokerFace_Plugin implements Typecho_Plugin_Interface
     public static function config(Typecho_Widget_Helper_Form $form)
     {
         $pokerface = new Typecho_Widget_Helper_Form_Element_Textarea('pokerface', NULL, "",
-			_t('PokerFace伪造后台代码'), _t('这里填入伪造的HTML代码，用于游客访问'));
+			_t('PokerFace伪造后台代码'), _t('这里填入伪造的<strong style="color:red;">HTML代码</strong>，用于游客访问'));
         $form->addInput($pokerface); 
     }
 
