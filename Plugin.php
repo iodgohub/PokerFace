@@ -2,10 +2,10 @@
 if (!defined('__TYPECHO_ROOT_DIR__')) exit();
 
 /**
- * <strong style="color:red;">PokerFace，伪造一个后台界面，防止非管理员进入网站后台。</strong>
+ * <strong style="color:red;">𝙋𝙤𝙠𝙚𝙧𝙁𝙖𝙘𝙚，伪造一个后台界面，防止非管理员进入网站后台。</strong>
  * 
- * @package PokerFace
- * @author 壹介凡俗
+ * @package 𝙋𝙤𝙠𝙚𝙧𝙁𝙖𝙘𝙚
+ * @author 𝙋𝙤𝙠𝙚𝙧𝙁𝙖𝙘𝙚
  * @version 0.11
  * @link https://iodgo.com/archives/PokerFace.html
  */
